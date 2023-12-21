@@ -1,2 +1,2 @@
 # Cat-App
-This is my project I made with freeCodeCamp
+This is a tutorial project I made for freeCodeCamp.
